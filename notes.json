@@ -1,0 +1,44 @@
+{
+  "notes": [
+    {
+      "id": "36cb",
+      "name": "Необходимо выполнить DROP TABLE",
+      "description": "Очень важное задание, без него у тебя не будет дел, чем заняться на работе",
+      "tagtype": "fire",
+      "isSpecial": false,
+      "isDone": false
+    },
+    {
+      "id": "0d38",
+      "name": "Дейлик в 9:45 по МСК (+3)",
+      "description": "Важное обсуждение, быть во время каждый день",
+      "tagtype": "star",
+      "isSpecial": false,
+      "isDone": false
+    },
+    {
+      "id": "d456",
+      "name": "Исправить баг, чтобы в форме очищались значения",
+      "description": "Ну сделать нужно",
+      "tagtype": "fire",
+      "isSpecial": false,
+      "isDone": false
+    },
+    {
+      "id": "c627",
+      "name": "Проснуться в 7:30 по МСК",
+      "description": "Желательно с 1 раза",
+      "tagtype": "job",
+      "isSpecial": false,
+      "isDone": true
+    },
+    {
+      "id": "6c9c",
+      "name": "Ничего",
+      "description": "Ничего особенного",
+      "tagtype": "none",
+      "isSpecial": false,
+      "isDone": true
+    }
+  ]
+}
